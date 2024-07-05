@@ -37,10 +37,10 @@ for one in var:
 print(sum)
 
 #함수코드 예
-def add(x,y):
+def add(x, y):
     print(x)
     print(y)
-    return x+y
+    return x + y
 val_x=1
 val_y=2
 val_sum=add(val_x,val_y)
